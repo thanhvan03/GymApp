@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GymApp</string>
+
+    <string-array name="order_status_array">
+        <item>Pending</item>
+        <item>Confirmed</item>
+        <item>Delivered</item>
+        <item>Completed</item>
+        <item>Cancelled</item>
+    </string-array>
+</resources>
